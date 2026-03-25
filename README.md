@@ -27,4 +27,5 @@ A simple Java console application demonstrating basic secure coding practices su
 
 ## Demo
 <img width="317" height="124" alt="image" src="https://github.com/user-attachments/assets/2d002583-9d92-4c62-a92b-e54ef7c592f9" />
+
 Example of input validation and safe error handling.
