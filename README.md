@@ -16,13 +16,13 @@ A simple Java console application demonstrating basic secure coding practices su
 1. Download the source file ([SecureLoginApp.java](SecureLoginApp.java)).
 2. Install the Java Development Kit (JDK) if you don’t already have it.
 3. Compile the program:
-``Java
+```Java
    javac SecureLoginApp.java
-``
+```
 4. Run it:
-``java
+```java
    java SecureLoginApp
-``
+```
 
 ## Learning Goals
 - Understand basic secure coding principles
